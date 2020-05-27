@@ -2,7 +2,7 @@
 
 ## Topics
 
-1. Seeing Society
+1. [Seeing Society](#)
 2. Explaining Human Behavior
 3. Methods of Research That Make Society Visible
 4. The Influence of Culture on Human Behavior
@@ -24,13 +24,3 @@ This course is designed to be an overview of the major sociological theories, co
 2. Explore the connection between inequality, prejudice, and discrimination.
 3. Challenge “common sense” and debunk social myths.
 4. Develop critical self-evaluation skills. (i.e. be a fly on the inside of your mind).
-
-
-## Testing Tables Syntax
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
