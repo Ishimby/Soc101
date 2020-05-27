@@ -2,7 +2,7 @@
 
 ## Topics
 
-1. [Seeing Society](https://ishimby.github.io/Soc101/1_seeing_society_overview.md)
+1. [Seeing Society](https://ishimby.github.io/Soc101/1_seeing_society_overview.html)
 2. Explaining Human Behavior
 3. Methods of Research That Make Society Visible
 4. The Influence of Culture on Human Behavior
