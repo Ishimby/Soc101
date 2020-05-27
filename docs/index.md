@@ -3,16 +3,16 @@
 ## Topics
 
 1. [Seeing Society](https://ishimby.github.io/Soc101/1_seeing_society_overview.html)
-2. Explaining Human Behavior
-3. Methods of Research That Make Society Visible
-4. The Influence of Culture on Human Behavior
-5. The Influence of Structure on Human Behavior
-6. Individual Agency & The Influence of Society on Our Sense of Self
-7. Social Control and Deviance
-8. Social Stratification
-9. Racial-Ethnic Stratification
-10. Sex & Gender Stratification
-11. How to Create Social Change
+2. [Explaining Human Behavior](https://ishimby.github.io/Soc101/2_explaining_human_behavior.html)
+3. [Research Methods](https://ishimby.github.io/Soc101/3_research_methods.html)
+4. [The Influence of Culture on Human Behavior](https://ishimby.github.io/Soc101/4_the_influence_of_culture_on_human_behavior.html)
+5. [The Influence of Structure on Human Behavior](https://ishimby.github.io/Soc101/5_the_influence_of_structure_on_human_behavior.html)
+6. [The Individual and Society](https://ishimby.github.io/Soc101/6_the_individual_and_society.html)
+7. [Social Control and Deviance](https://ishimby.github.io/Soc101/7_social_control_and_deviance.html)
+8. [Social Stratification](https://ishimby.github.io/Soc101/8_social_stratification.html)
+9. [Racial-Ethnic Stratification](https://ishimby.github.io/Soc101/9_racial-ethnic_stratification.html)
+10. [Sex & Gender Stratification](https://ishimby.github.io/Soc101/10_sex_&_gender_stratification.html)
+11. [How to Create Social Change](https://ishimby.github.io/Soc101/11_social_change.html)
 
 ## Course Description
 
