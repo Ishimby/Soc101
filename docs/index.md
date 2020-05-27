@@ -1,9 +1,7 @@
 # Course Overview
 
-## Topics
-
-**1.** [Seeing Society](https://ishimby.github.io/Soc101/1_seeing_society_overview.html)
-**2.** [Explaining Human Behavior](https://ishimby.github.io/Soc101/2_explaining_human_behavior.html)
+1. [Seeing Society](https://ishimby.github.io/Soc101/1_seeing_society_overview.html)
+2. [Explaining Human Behavior](https://ishimby.github.io/Soc101/2_explaining_human_behavior.html)
 3. [Research Methods](https://ishimby.github.io/Soc101/3_research_methods.html)
 4. [The Influence of Culture on Human Behavior](https://ishimby.github.io/Soc101/4_the_influence_of_culture_on_human_behavior.html)
 5. [The Influence of Structure on Human Behavior](https://ishimby.github.io/Soc101/5_the_influence_of_structure_on_human_behavior.html)
