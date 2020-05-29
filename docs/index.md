@@ -1,3 +1,6 @@
+[Home](https://ishimby.github.io/Soc101/) | [About](https://ishimby.github.io/Soc101/About.html)
+
+
 # Course Overview
 
 1. [Seeing Society](https://ishimby.github.io/Soc101/1_seeing_society_overview.html)
@@ -22,3 +25,5 @@ This course is designed to be an overview of the major sociological theories, co
 2. Explore the connection between inequality, prejudice, and discrimination.
 3. Challenge “common sense” and debunk social myths.
 4. Develop critical self-evaluation skills. (i.e. be a fly on the inside of your mind).
+
+©2020 Nathan Palmer All Rights Reserved.
