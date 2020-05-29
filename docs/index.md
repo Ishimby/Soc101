@@ -1,4 +1,4 @@
-[Home](https://ishimby.github.io/Soc101/) | [About](https://ishimby.github.io/Soc101/About.html)
+[Home](https://ishimby.github.io/Soc101/) | [About](https://ishimby.github.io/Soc101/About.md)
 
 ![Site_Hero_Image](https://res.cloudinary.com/ishimby/image/upload/v1590626150/sample.jpg)
 
