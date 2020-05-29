@@ -1,4 +1,4 @@
-[Home](https://ishimby.github.io/Soc101/) | [About](https://ishimby.github.io/Soc101/About.md)
+[Home](https://ishimby.github.io/Soc101/) | [About](https://ishimby.github.io/Soc101/About.html)
 
 ## About
 
