@@ -34,3 +34,27 @@
 #### Suggested Media
 
 * [Careers In Sociology](https://www.asanet.org/careers/careers-sociology)
+
+
+
+
+
+
+
+
+==============Alternative Design==============
+
+
+# 1. Seeing Society - Overview
+
+**Topic Description** Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+
+## This Week's Texts
+
+## Activities 
+
+
+## Complete ALL of these Modules:
+
+
+## Complete 2 of these 4 Modules (Student's Choice):
