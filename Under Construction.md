@@ -1,10 +1,11 @@
-# [Intro to Sociology](https://ishimby.github.io/Soc101/)
-
 | [Home](https://ishimby.github.io/Soc101/) | [Syllabus](https://ishimby.github.io/Soc101/syllabus.html) | [Schedule](https://ishimby.github.io/Soc101/schedule.html) | [Assignments](https://ishimby.github.io/Soc101/assignments.html) | [Help](https://ishimby.github.io/Soc101/help.html) |
 
 ---
 
-# Week 1
+## [1. Seeing Society](https://ishimby.github.io/Soc101/1_seeing_society_overview.md)
+
+1. Seeing Society/
+
 
 ## Readings, etc.
 
