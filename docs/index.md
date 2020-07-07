@@ -1,11 +1,11 @@
 # [Intro to Sociology](https://ishimby.github.io/Soc101/)
 
-| [Home](https://ishimby.github.io/Soc101/) | [Syllabus](https://ishimby.github.io/syllabus.html) | [Schedule](https://ishimby.github.io/schedule.html) | [Assignments](https://ishimby.github.io/assignments.html) | [Help](https://ishimby.github.io/help.html) |
+| [Home](https://ishimby.github.io/Soc101/) | [Syllabus](https://ishimby.github.io/syllabus.md) | [Schedule](https://ishimby.github.io/schedule.md) | [Assignments](https://ishimby.github.io/assignments.md) | [Help](https://ishimby.github.io/help.md) |
 
 
 ![Site_Hero_Image](https://res.cloudinary.com/ishimby/image/upload/v1594073528/shutterstock_160644944-compressor_qi5ae2.jpg)
 
-This is the course website for Soci1101-D Introduction to Sociology taught by [Dr. Nathan Palmer](www.natepalmer.org) at Georgia Southern University. This course will introduce to the main ideas, theories, and research methods used in the discipline of sociology. To learn more see the course [syllabus](https://ishimby.github.io/syllabus.html) and [schedule](https://ishimby.github.io/schedule.html). 
+This is the course website for Soci1101-D Introduction to Sociology taught by [Dr. Nathan Palmer](www.natepalmer.org) at Georgia Southern University. This course will introduce to the main ideas, theories, and research methods used in the discipline of sociology. To learn more see the course [syllabus](https://ishimby.github.io/syllabus.md) and [schedule](https://ishimby.github.io/schedule.md). 
 
 ---
 
