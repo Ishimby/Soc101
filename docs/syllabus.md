@@ -1,6 +1,6 @@
 # [Intro to Sociology](https://ishimby.github.io/Soc101/)
 
-| [Home](https://ishimby.github.io/Soc101/) | [**SYLLABUS**](https://ishimby.github.io/Soc101/syllabus.html) | [Schedule](https://ishimby.github.io/Soc101/schedule.html) | [Assignments](https://ishimby.github.io/Soc101/assignments.html) | [Help](https://ishimby.github.io/Soc101/help.html) |
+| [Home](https://ishimby.github.io/Soc101/) | [SYLLABUS](https://ishimby.github.io/Soc101/syllabus.html) | [Schedule](https://ishimby.github.io/Soc101/schedule.html) | [Assignments](https://ishimby.github.io/Soc101/assignments.html) | [Help](https://ishimby.github.io/Soc101/help.html) |
 
 # Course Overview
 
