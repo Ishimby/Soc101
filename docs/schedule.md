@@ -2,7 +2,24 @@
 
 | [Home](https://ishimby.github.io/Soc101/) | [Syllabus](https://ishimby.github.io/Soc101/syllabus.html) | [**SCHEDULE**](https://ishimby.github.io/Soc101/schedule.html) | [Assignments](https://ishimby.github.io/Soc101/assignments.html) | [Help](https://ishimby.github.io/Soc101/help.html) |
 
-Body Here
+| Week     	  | Topic 	|
+| ----------- | ----------- |
+| 1 | Seeing Society |
+| 2 | Explaining Human Behavior pt 1 |
+| 3 | Explaining Human Behavior pt 2 |
+| 4 | Research Methods pt 1 |
+| 5 | Research Methods pt 2 |
+| 6 | The Influence of Culture on Human Behavior |
+| 7 | The Influence of Structure on Human Behavior pt 1 |
+| 8 | The Influence of Structure on Human Behavior pt 2 |
+| 9 | Individual Agency & The Influence of Society on Our Sense of Self |
+| 10 | Social Control and Deviance |
+| 11 | Social Stratification |
+| 12 | Racial-Ethnic Stratification pt 1|
+| 13 | Racial-Ethnic Stratification pt 2 |
+| 14 | Sex & Gender Stratification |
+| 15 | How to Create Social Change |
+
 
 ---
 
