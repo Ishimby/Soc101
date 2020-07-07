@@ -1,6 +1,6 @@
 # [Intro to Sociology](https://ishimby.github.io/Soc101/)
 
-| [Home](https://ishimby.github.io/Soc101/) | [Syllabus](https://ishimby.github.io/syllabus.html) | [Schedule](https://ishimby.github.io/schedule.html) | [**ASSIGNMENTS**](https://ishimby.github.io/assignments.html) | [Help](https://ishimby.github.io/help.html) |
+| [Home](https://ishimby.github.io/Soc101/) | [Syllabus](https://ishimby.github.io/Soc101/syllabus.html) | [Schedule](https://ishimby.github.io/Soc101/schedule.html) | [**ASSIGNMENTS**](https://ishimby.github.io/Soc101/assignments.html) | [Help](https://ishimby.github.io/Soc101/help.html) |
 
 Body Here
 
