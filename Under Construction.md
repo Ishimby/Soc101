@@ -4,7 +4,7 @@
 
 ## [1. Seeing Society](https://ishimby.github.io/Soc101/1_seeing_society_overview.md)
 
-1. Seeing Society/
+1. Seeing Society/bread crubms/bread crumbs
 
 
 ## Readings, etc.
