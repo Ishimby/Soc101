@@ -4,8 +4,8 @@
 
 ## Schedule
 
-| Week     	  | Topic 	|
-| ----------- | ----------- |
+| Week | Topic |
+| ----- | ----- |
 | 1 | [Seeing Society](https://ishimby.github.io/Soc101/1_seeing_society_overview.html) |
 | 2 | Explaining Human Behavior pt 1 |
 | 3 | Explaining Human Behavior pt 2 |
