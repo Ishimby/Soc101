@@ -23,7 +23,7 @@
 * What You Know & What You Don't
 * How Sociologists View The World
 
-### More
+#### More...
 
 * [Sociological Images](https://thesocietypages.org/socimages/)
 
