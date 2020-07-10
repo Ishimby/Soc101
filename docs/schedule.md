@@ -18,7 +18,7 @@
 | 10 | Social Control and Deviance |
 | 11 | Social Stratification |
 | 12 | Racial-Ethnic Stratification pt 1|
-| 13 | Racial-Ethnic Stratification pt 2 |
+| 13 | [Racial-Ethnic Stratification pt 2](https://ishimby.github.io/Soc101/9_racial-ethnic_stratification.html) |
 | 14 | Sex & Gender Stratification |
 | 15 | How to Create Social Change |
 
