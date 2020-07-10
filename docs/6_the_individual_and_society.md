@@ -1,36 +1,16 @@
-# 6. The Individual and Society - Overview
+| [Home](https://ishimby.github.io/Soc101/) | [Syllabus](https://ishimby.github.io/Soc101/syllabus.html) | [Schedule](https://ishimby.github.io/Soc101/schedule.html) | [Assignments](https://ishimby.github.io/Soc101/assignments.html) | [Help](https://ishimby.github.io/Soc101/help.html) |
 
-**Topic Description** Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+## 6. The Individual & Society
 
-## Texts & Media
+![A Face Made Out of a Question Mark ](https://res.cloudinary.com/ishimby/image/upload/v1594401957/Self-Question-Mark-compressor_urpabx.jpg “Questioning the Self”)
 
-| Text     	  | Required 	|
-| ----------- | ----------- |
-| [*title*](https://www.youtube.com/watch?v=PhhC_N6Bm_s) by Author      | Optional       |
-| [What Is Sociology?:](https://www.youtube.com/watch?v=YnCJU6PaCio) Crash Course Sociology #1   | Optional        |
+<!--- INSERT BODY OF PAGE HERE --->
 
-## Assessments
 
-| Assessment      | Points |
-| ----------- | ----------- |
-| Reading Quiz      | 410 pts       |
-| SIF Essay   | 102 pts        |
-| Discussion      | 150 pts       |
-| Journal Entry   | 12 pts        |
+---
 
-## Learning Aids
-
-* What You Know & What You Don't
-* How Sociologists View The World
-
-### More
-
-* [Sociological Images](https://thesocietypages.org/socimages/)
-
-#### Further Reading
-
-* [The Sociological Imagination by C. Wright Mills](https://www.amazon.com/Sociological-Imagination-C-Wright-Mills/dp/0195133730)
-
-#### Suggested Media
-
-* [Careers In Sociology](https://www.asanet.org/careers/careers-sociology)
+[**Soci1101-D: Intro to Sociology** (Fall 2020)](https://ishimby.github.io/Soc101/)  
+[Georgia Southern University](https://www.georgiasouthern.edu/) | [Sociology Department](https://cbss.georgiasouthern.edu/socianth/)  
+[Nathan Palmer](www.natepalmer.org) | [npalmer@georgiasouthern.edu](mailto:npalmer@georgiasouthern.edu) | Tue/Thu 9:30am-10:45am 
+  
+©2020 Nathan Palmer All Rights Reserved.
