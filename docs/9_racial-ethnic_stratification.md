@@ -2,7 +2,7 @@
 
 ## 9. Racial Stratification
 
-![Protestors at a Black Lives Matter Event](https://res.cloudinary.com/ishimby/image/upload/v1594401713/shutterstock_269949626-copy-compressor_krz8ol.jpg “Protestors at a Black Lives Matter Event”)
+![Protestors at a Black Lives Matter Event](https://res.cloudinary.com/ishimby/image/upload/v1594401713/shutterstock_269949626-copy-compressor_krz8ol.jpg)
 
 <!--- INSERT BODY OF PAGE HERE --->
 
