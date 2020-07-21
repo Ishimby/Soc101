@@ -1,6 +1,6 @@
 | [Home](https://ishimby.github.io/Soc101/) | [Syllabus](https://ishimby.github.io/Soc101/syllabus.html) | [Schedule](https://ishimby.github.io/Soc101/schedule.html) | [Assignments](https://ishimby.github.io/Soc101/assignments.html) | [Help](https://ishimby.github.io/Soc101/help.html) |
 
-## 2. Explaining Human Behavior - wk 1
+## 2. Explaining Human Behavior - wk 2
 
 ![Alt](URL “image title”)
 
