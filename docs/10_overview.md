@@ -1,4 +1,6 @@
-## 9. Racial Stratification - Wk 2
+| [Home](https://ishimby.github.io/Soc101/) | [Syllabus](https://ishimby.github.io/Soc101/syllabus.html) | [Schedule](https://ishimby.github.io/Soc101/schedule.html) | [Assignments](https://ishimby.github.io/Soc101/assignments.html) | [Help](https://ishimby.github.io/Soc101/help.html) |
+
+## 10. Sex &#38; Gender Stratification
 
 ![Alt](URL “image title”)
 
