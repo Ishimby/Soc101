@@ -6,21 +6,21 @@
 
 | Week | Topic |
 | ----- | ----- |
-| 1 | [Seeing Society](https://ishimby.github.io/Soc101/1_seeing_society_overview.html) |
-| 2 | Explaining Human Behavior pt 1 |
-| 3 | Explaining Human Behavior pt 2 |
-| 4 | Research Methods pt 1 |
-| 5 | Research Methods pt 2 |
-| 6 | The Influence of Culture on Human Behavior |
-| 7 | The Influence of Structure on Human Behavior pt 1 |
-| 8 | The Influence of Structure on Human Behavior pt 2 |
-| 9 | Society and The Individual |
-| 10 | Social Control and Deviance |
-| 11 | Social Stratification |
-| 12 | Racial-Ethnic Stratification pt 1|
-| 13 | [Racial-Ethnic Stratification pt 2](https://ishimby.github.io/Soc101/9_racial-ethnic_stratification.html) |
-| 14 | Sex & Gender Stratification |
-| 15 | How to Create Social Change |
+| 1 | [Seeing Society](https://ishimby.github.io/Soc101/1_overview.html) |
+| 2 | [Explaining Human Behavior - Wk 1](https://ishimby.github.io/Soc101/2_1_overview.html) |
+| 3 | [Explaining Human Behavior - Wk 2](https://ishimby.github.io/Soc101/2_2_overview.html) |
+| 4 | [Research Methods - Wk 1](https://ishimby.github.io/Soc101/3_1_overview.html) |
+| 5 | [Research Methods - Wk 2](https://ishimby.github.io/Soc101/3_2_overview.html) |
+| 6 | [The Influence of Culture on Human Behavior](https://ishimby.github.io/Soc101/4_overview.html) |
+| 7 | [The Influence of Structure on Human Behavior - Wk 1](https://ishimby.github.io/Soc101/5_1_overview.html) |
+| 8 | [The Influence of Structure on Human Behavior - Wk 2](https://ishimby.github.io/Soc101/5_2_overview.html) |
+| 9 | [Society and The Individual](https://ishimby.github.io/Soc101/6_overview.html) |
+| 10 | [Social Control and Deviance](https://ishimby.github.io/Soc101/7_overview.html) |
+| 11 | [Social Stratification](https://ishimby.github.io/Soc101/8_overview.html) |
+| 12 | [Racial-Ethnic Stratification - Wk 1](https://ishimby.github.io/Soc101/9_1_overview.html) |
+| 13 | [Racial-Ethnic Stratification - Wk 2](https://ishimby.github.io/Soc101/9_2_overview.html) |
+| 14 | [Sex & Gender Stratification](https://ishimby.github.io/Soc101/10_overview.html) |
+| 15 | [How to Create Social Change](https://ishimby.github.io/Soc101/11_overview.html) |
 
 
 ---
