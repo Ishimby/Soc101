@@ -9,8 +9,8 @@
 | 1 | [Seeing Society](https://ishimby.github.io/Soc101/1_overview.html) |
 | 2 | [Explaining Human Behavior - Wk 1](https://ishimby.github.io/Soc101/2_1_overview.html) |
 | 3 | [Explaining Human Behavior - Wk 2](https://ishimby.github.io/Soc101/2_2_overview.html) |
-| 4 | [Research Methods - Wk 1](https://ishimby.github.io/Soc101/3_1_overview.html) |
-| 5 | [Research Methods - Wk 2](https://ishimby.github.io/Soc101/3_2_overview.html) |
+| 4 | [Sociological Research - Wk 1](https://ishimby.github.io/Soc101/3_1_overview.html) |
+| 5 | [Sociological Research - Wk 2](https://ishimby.github.io/Soc101/3_2_overview.html) |
 | 6 | [The Influence of Culture on Human Behavior](https://ishimby.github.io/Soc101/4_overview.html) |
 | 7 | [The Influence of Structure on Human Behavior - Wk 1](https://ishimby.github.io/Soc101/5_1_overview.html) |
 | 8 | [The Influence of Structure on Human Behavior - Wk 2](https://ishimby.github.io/Soc101/5_2_overview.html) |
