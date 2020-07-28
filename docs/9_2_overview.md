@@ -1,6 +1,6 @@
 ## 9. Racial Stratification - Wk 2
 
-![Alt](URL “image title”)
+![Activists at a Black Lives Matter Event](https://res.cloudinary.com/ishimby/image/upload/v1594401713/shutterstock_269949626-copy-compressor_krz8ol.jpg)
 
 **Topic Description** Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 
